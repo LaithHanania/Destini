@@ -1,4 +1,4 @@
-
+Note: This repo was originally cloned for skeleton code for the purpose of learning iOS development and practicing implementing the MVC design pattern in mobile development
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  Destini
